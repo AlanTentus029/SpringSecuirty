@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "c393bbd6-4273-435c-8bd9-47a2baa7d4d3",
+		"name": "SpringSecurity",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27960011"
+	},
+	"item": [
+		{
+			"name": "user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
